@@ -1,0 +1,58 @@
+[
+  {
+    "name": "C++",
+    "type": "Language"
+  },
+  {
+    "name": "MPICH",
+    "type": "Library"
+  },
+  {
+    "name": "Python",
+    "type": "Language"
+  },
+  {
+    "name": "Apache Flink",
+    "type": "Engine"
+  },
+  {
+    "name": "Apache Spark",
+    "type": "Engine"
+  },
+  {
+    "name": "Neo4j",
+    "type": "Database"
+  },
+  {
+    "name": "C",
+    "type": "Language"
+  },
+  {
+    "name": "Rust",
+    "type": "Language"
+  },
+  {
+    "name": "Actix",
+    "type": "Framework"
+  },
+  {
+    "name": "Go",
+    "type": "Language"
+  },
+  {
+    "name": "Typescript",
+    "type": "Language"
+  },
+  {
+    "name": "Kubernetes",
+    "type": "Tool"
+  },
+  {
+    "name": "Java",
+    "type": "Language"
+  },
+  {
+    "name": "Micronaut",
+    "type": "Framework"
+  }
+]

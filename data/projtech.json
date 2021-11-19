@@ -1,0 +1,38 @@
+[
+  {
+    "project": "Distributed Computation for Medical Data using MPI",
+    "technologies": ["C++", "MPICH"]
+  },
+  {
+    "project": "Real-time Deep Learning on Credit Card Transaction Streams",
+    "technologies": ["Python", "Apache Flink"]
+  },
+  {
+    "project": "Real-Time Analytics for Fast Evolving Social Graphs",
+    "technologies": ["Python", "Apache Spark", "Neo4j"]
+  },
+  {
+    "project": "Central Heating System",
+    "technologies": ["C"]
+  },
+  {
+    "project": "Transit and Fare Collection using NFC",
+    "technologies": ["Rust", "Actix"]
+  },
+  {
+    "project": "Electric Vehicle Charging Station",
+    "technologies": ["C"]
+  },
+  {
+    "project": "Web-based Movie Streaming Platform",
+    "technologies": ["Go", "Typescript", "Kubernetes"]
+  },
+  {
+    "project": "Decentralized Exchange Trading System",
+    "technologies": ["Go", "Rust", "Typescript", "Kubernetes"]
+  },
+  {
+    "project": "Customer Information Management System for Banks",
+    "technologies": ["Java", "Micronaut", "Kubernetes"]
+  }
+]
